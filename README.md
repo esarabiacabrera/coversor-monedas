@@ -15,16 +15,16 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<!-- ###Integrantes
+###Integrantes
 *Edinson Sarabia Cabrera
 *Ximena Rosales Otalora
 *Segundo Arturo Arboleda Angulo
 *Bryner Jose Ramirez Rodriguez
-*Emiro Enrique Galvis Jimenez -->
+\*Emiro Enrique Galvis Jimenez
 
-<!-- ###Enlace de video del funcionamiento del aplicativo
-https://drive.google.com/file/d/1fTcPZqi79luHwC-zirfASUvesic7cfKe/view?usp=sharing -->
+###Enlace de video del funcionamiento del aplicativo
+https://drive.google.com/file/d/1fTcPZqi79luHwC-zirfASUvesic7cfKe/view?usp=sharing
 
-<!-- ###Información de reto 1
-\*\*\*Enlace de Github
-https://github.com/esarabiacabrera/coversor-monedas -->
+###Información de reto 1
+Enlace de Github
+https://github.com/esarabiacabrera/coversor-monedas
